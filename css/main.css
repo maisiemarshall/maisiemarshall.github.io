@@ -1,0 +1,22 @@
+body {
+  background-color: #E5BDD8;
+  color: #AAA;
+}
+h1 {
+  font-family: 'Amatic SC', C89FBB;
+  font-size: 50px;
+}
+p {
+  font-family: 'Open Sans', sans-serif;
+  color: #383E34;
+}
+.small-image {
+  width: 100px;
+  border-color: white;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 50%;
+}
+.intro{
+  font-style: italic;
+}
