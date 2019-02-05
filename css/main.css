@@ -3,8 +3,9 @@ body {
   color: #000;
 }
 h1 {
-  font-family: 'Amatic SC', C89FBB;
+  font-family: 'Amatic SC', sans-serif;
   font-size: 50px;
+  color: #FFF;
 }
 p {
   font-family: 'Open Sans', sans-serif;
