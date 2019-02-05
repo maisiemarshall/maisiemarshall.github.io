@@ -1,6 +1,6 @@
 body {
-  background-color: #E5BDD8;
-  color: #AAA;
+  background-color: #FFF;
+  color: #000;
 }
 h1 {
   font-family: 'Amatic SC', C89FBB;
@@ -8,7 +8,7 @@ h1 {
 }
 p {
   font-family: 'Open Sans', sans-serif;
-  color: #383E34;
+  color: #000;
 }
 .small-image {
   width: 100px;
