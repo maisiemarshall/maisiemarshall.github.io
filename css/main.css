@@ -5,11 +5,9 @@ body {
 h1 {
   font-family: 'Amatic SC', sans-serif;
   font-size: 50px;
-  color: #FFF;
 }
 p {
   font-family: 'Open Sans', sans-serif;
-  color: #000;
 }
 .small-image {
   width: 100px;
