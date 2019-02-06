@@ -2,25 +2,35 @@ body {
   background-color: #FFF;
   color: #000;
 }
+
 h1 {
   font-family: 'Amatic SC', sans-serif;
   font-size: 50px;
 }
+
 h2 {
   font-family: 'Open Sans', sans-serif;
   font-size: 20px;
 }
+
 h3 {
   font-family: 'Open Sans', sans-serif;
   font-size: 15px;
 }
+
 p {
   font-family: 'Open Sans', sans-serif;
 }
+
+ul {
+  font-family: 'Open Sans', sans-serif;
+}
+
 .small-image {
   width: 100px;
   border-radius: 50%;
 }
+
 .intro{
   font-style: italic;
 }
