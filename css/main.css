@@ -1,6 +1,7 @@
 body {
   background-color: #FFF;
   color: #000;
+  font-family: 'Open Sans', sans-serif;;
 }
 
 h1 {
@@ -9,21 +10,11 @@ h1 {
 }
 
 h2 {
-  font-family: 'Open Sans', sans-serif;
   font-size: 20px;
 }
 
 h3 {
-  font-family: 'Open Sans', sans-serif;
   font-size: 15px;
-}
-
-p {
-  font-family: 'Open Sans', sans-serif;
-}
-
-ul {
-  font-family: 'Open Sans', sans-serif;
 }
 
 .small-image {
