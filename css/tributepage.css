@@ -34,3 +34,9 @@
   color: beige;
   width: 75vmin;
 }
+
+nav {
+  position:fixed;
+  top: 5px;
+  right: 20px;
+}
