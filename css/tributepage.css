@@ -1,20 +1,23 @@
 #main {
   font-family: sans-serif;
-  background: grey;
+  background: linear-gradient(45deg, black, white);
 }
 
 #title {
   text-align: center;
-  color: beige;
+  color: black;
   margin: auto;
+  width: 80vw;
 }
 
 #img-div {
   background: beige;
+  margin: 5px 0px;
 }
 
 #image {
   max-width: 100%;
+  border-radius: 1%;
   display: block;
   height: auto;
   margin: auto;
@@ -24,9 +27,10 @@
   font-style: italic;
   text-align: center;
   margin: auto;
+  width 75vmin;
 }
 
 #tribute-info {
   color: beige;
-  margin: auto;
+  width: 75vmin;
 }
