@@ -60,3 +60,9 @@ h1 {
     background: hsl(200,50%,70%);
   }
 }
+
+#back {
+   position: fixed;
+   top: 14px;
+   right: 20px;
+}
