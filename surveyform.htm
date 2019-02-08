@@ -10,11 +10,11 @@
    <p id="description">A short survey for you to fill in!</p>
    <form id="survey-form" action="#">
       <label id="name-label" for="name">Name:</label>
-      <input id="name" type="text" placeholder="Enter name" required>
+      <input id="name" type="text" name="text" placeholder="Enter name" required>
       <label id="email-label" for="email">Email:</label>
-      <input id="email" type="email" placeholder="Enter email address" required>
+      <input id="email" type="email" name="email" placeholder="Enter email address" required>
       <label id="number-label" for="number">Age:</label>
-      <input id="number" type="number" min="0" max="100" placeholder="Age">
+      <input id="number" type="number" name="number" min="0" max="100" placeholder="Age">
       <fieldset>
          <legend>Gender:</legend>
          <input id="male" value="male" type="radio" name="gender" checked>
@@ -35,7 +35,7 @@
       </fieldset>
       <fieldset>
          <legend>Pick your favourite:</legend>
-         <select id="dropdown">
+         <select id="dropdown" name="colour">
             <option value="red">Red</option>
             <option value="orange">Orange</option>
             <option value="yellow">Yellow</option>
