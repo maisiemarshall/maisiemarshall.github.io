@@ -12,6 +12,7 @@ h1 {
   font-family: 'Amatic SC', sans-serif;
   font-size: 50px;
   text-align: center;
+  margin: auto;
 }
 
 h2 {
@@ -33,6 +34,7 @@ h3 {
 .intro {
   font-style: italic;
   text-align: center;
+  margin: auto;
 }
 
 .button {
